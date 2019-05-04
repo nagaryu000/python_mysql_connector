@@ -9,8 +9,8 @@ DB_NAME = 'mysql_connector_python'
 TABLES = {}
 
 conn = mysql.connector.connect(
-                                user='nagaryu000',
-                                password='ryujinagasawa',
+                                user='your_name',
+                                password='xxxxxxxxx',
                                 host='127.0.0.1',
                                 )
 
